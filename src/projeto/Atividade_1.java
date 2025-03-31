@@ -14,7 +14,7 @@ public class Atividade_1 {
         int mes = teclado.nextInt();
         int ano = teclado.nextInt();
 
-        conta(dia, mes, ano); // Agora não retorna nada, apenas imprime
+        conta(dia, mes, ano);
 
         teclado.close();
     }
